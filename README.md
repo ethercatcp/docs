@@ -1,6 +1,7 @@
 Mooncat Chat Protocol
 =====================
 This is chat protocol for Mooncat. It is used HTTP protocol and WebSockets.
+[MCP Logo](https://avatars.githubusercontent.com/u/125414235?s=512&u=e33431a903ddf60db32f142cd4102f48a409640c&v=4)
 
 ### Introduction
 **Russian**
