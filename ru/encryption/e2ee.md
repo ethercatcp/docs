@@ -14,7 +14,7 @@
 `POST /api/users/174473846617255485/messages`
 ```json5
 {
-  "content": "ECDH:base64:BBB5nYtgL4ueHvYxJUo6CsebjZQlU75G0ra8qSlpFHQ4bIFFwiV3Tq+6gea8V+nxH9q5y3CTzelsxcw1KsI8vHw=",
+  content: "ECDH:base64:BBB5nYtgL4ueHvYxJUo6CsebjZQlU75G0ra8qSlpFHQ4bIFFwiV3Tq+6gea8V+nxH9q5y3CTzelsxcw1KsI8vHw=",
   /*
       В случае использования 16-ричной кодировки:
       "content": "ECDH:hex:0410799d8b602f8b9e1ef631254a3a0ac79b8d942553be4..."
